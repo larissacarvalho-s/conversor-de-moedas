@@ -1,6 +1,6 @@
 # 💱 Conversor de Moedas: Projeto Desafio ONE (Oracle Next Education)
 
-## 📄 Visão Geral
+## 📄 Descrição do Projeto
 
 Este projeto é a solução desenvolvida para o **Challenge ONE: Conversor de Moedas**, parte do programa **Oracle Next Education (ONE)** em parceria com a Alura.
 
@@ -10,7 +10,7 @@ O foco técnico principal do projeto foi demonstrar a **integração com APIs ex
 
 ---
 
-## ⭐ Recursos Principais e Requisitos Cumpridos
+## ⭐ Funcionalidades e Requisitos Cumpridos
 
 * **Menu de Opções Fixas:** Permite a escolha rápida de pares de moedas populares (ex.: USD/BRL, USD/ARS, USD/COP).
 * **Integração HTTP:** Realiza requisições `GET` à **ExchangeRate-API** para obter taxas de câmbio atuais.
@@ -22,7 +22,7 @@ O foco técnico principal do projeto foi demonstrar a **integração com APIs ex
 
 ---
 
-## 💻 Tecnologias Empregadas
+## 🛠️ Tecnologias Utilizadas
 
 | Categoria | Tecnologia | Detalhes |
 | :--- | :--- | :--- |
